@@ -1,7 +1,7 @@
 import unittest
 import requests
 import json
-import sys
+
 
 # Configuration
 BASE_URL = "https://restful-booker.herokuapp.com"
